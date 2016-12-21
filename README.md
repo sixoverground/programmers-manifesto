@@ -6,8 +6,10 @@
 
 ## Done is better than perfect, if all functional requirements are met.
 
-## Write legible, modular, performant code.
+## Always write legible, modular, performant code.
 
 ## Know design, respect design, and adhere to the project design.
 
 ## Don't reinvent the wheel.
+
+## Never copy and paste code unless how and why it works is fully understood.
